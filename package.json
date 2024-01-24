@@ -1,0 +1,11 @@
+{
+  "name": "pgctour4",
+  "version": "1.0.0",
+  "description": "PGC Tour Season 4 Google Apps Scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dreams By Dutch",
+  "license": "ISC"
+}
